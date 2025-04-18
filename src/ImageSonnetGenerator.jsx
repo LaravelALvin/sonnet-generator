@@ -16,7 +16,7 @@ const imageData = [
               id: 1,
               bbox: [120, 220, 80, 180],
               confidence: 0.97,
-              team_color: 'purple',
+              team_color: 'white',
               pose: 'dribbling',
             },
             {
@@ -24,7 +24,7 @@ const imageData = [
               id: 2,
               bbox: [300, 210, 85, 175],
               confidence: 0.94,
-              team_color: 'green',
+              team_color: 'blue',
               pose: 'defending',
             },
             {
